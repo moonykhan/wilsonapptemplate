@@ -1,0 +1,8 @@
+{
+"info":
+    {
+        "name" : "Basic template",
+       	"description": "A basic template on which developers can built their own apps.",
+       	"version": 1
+    }
+}
